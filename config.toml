@@ -2,7 +2,6 @@ baseURL = 'https://sweet-froyo-741890.netlify.app/'
 languageCode = 'en-us'
 title = 'PhD on FIRE'
 theme = 'hyde'
-sectionPagesMenu = "main"
 [menu]
 [[menu.main]]
   name = 'Home'
