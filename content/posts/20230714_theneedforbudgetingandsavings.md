@@ -12,7 +12,7 @@ Not only that, about 39% of Americans could not cover an emergency expense of $4
 
 I was one of those adults.
 
-A Catalyst for Change
+# A Catalyst for Change
 
 One day in 2013, I woke up with the most intense toothache I've ever felt. I tried to ignore it, because I was dealing with a student engineering project at the time, but it was freaking hard to ignore. Advil did nothing. Finally, I went to the dentist after signing up for a dental plan (no dental insurance for this broke student). Turns out, my filling was broken and my tooth was rotting. I had to get a root canal and a crown and it would cost about $500.
 
@@ -20,7 +20,7 @@ I checked my bank account. There was less than $100 in it. How the f* was I goin
 
 Luckily, my boyfriend at the time (now husband) loaned me the money I needed for the dental procedure. I paid him back after a few weeks, but it was really embarrassing that I wasn't able to pay for a medical emergency myself. Something needed to change.
 
-Learning to Manage My Money
+# Learning to Manage My Money
 
 So I researched my options and found a budgeting software that was free for college students called You Need a Budget (YNAB), which was recommended by tons of personal finance enthusiasts on reddit. I signed up, and over time learned how to budget and save my money.
 
@@ -28,7 +28,7 @@ A few years later, I have a six month emergency fund, well-established retiremen
 
 Listen, managing your money doesn't sound exciting or fun. And we probably haven't learned it in school or from our parents. But it's not hard to learn, and it can be fun. College comes with so many challenges like student loans and finding a full-time job after graduation. Managing your money allows you to save up for an emergency fund so you can weather a few months of job searching if needed, without having to worry about being able to afford your rent or food, or pay off those loans before interest kicks in. This sets you up for success in the future.
 
-Guide to Budgets and Savings
+# Guide to Budgets and Savings
 
 So how do we start a budget? Here's a few steps to get started:
 
@@ -43,21 +43,21 @@ So how do we start a budget? Here's a few steps to get started:
 
 That's all there is to budgeting and saving money. You're now well on your way to having a healthier relationship with money.
 
-Additional Reading
+# Additional Reading
 
 There are tons of resources available online on personal finance and budgeting. Be sure to go the following blogs, books, workshops, and forums to learn even more about personal finance:
 
-* Mr. Money Mustache
-* YNAB workshops
-* Dave Ramsey's free tools
-* Bogleheads' forum
-* The personal finance subreddit
-* JL Collins blog and book on the Simple Path to Wealth
+* [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+* [YNAB workshops](https://www.youneedabudget.com/free-workshops/)
+* [Dave Ramsey's free tools](https://www.ramseysolutions.com/tools#getting-started)
+* [Bogleheads' forum](https://bogleheads.org/forum/index.php)
+* [The personal finance subreddit](http://reddit.com/r/personalfinance)
+* [JL Collins blog and book on the Simple Path to Wealth](https://jlcollinsnh.com/about/)
 
 Happy budgeting!
 
 Sources:
-[1]2020 American Household Credit Card Debt Study. [nerdwallet.com](https://www.nerdwallet.com/blog/average-credit-card-debt-household/)
+[1]2020 American Household Credit Card Debt Study. https://www.nerdwallet.com/blog/average-credit-card-debt-household/
 
 [2] Student Loans and Other Education Debt, Federal Reserve System. https://www.federalreserve.gov/publications/2019-economic-well-being-of-us-households-in-2018-student-loans-and-other-education-debt.htm
 
