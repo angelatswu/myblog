@@ -32,14 +32,14 @@ Listen, managing your money doesn't sound exciting or fun. And we probably haven
 
 So how do we start a budget? Here's a few steps to get started:
 
-* List your income and necessary expenses such as rent, utilities, groceries, gas for your car, and debt payments.
-* Check your monthly income vs expenses. Is your income larger than your expenses? Great! You now have extra cash to save towards your financial goals. But, if your expenses are larger than your income, it's time to cut expenses down before moving on. Focus on big things like rent or mortgage, utilities, insurance, and food.
-* Track your expenses. You can do this with paper and pen, in a spreadsheet, or using a budgeting app. I don't care how you do it, as long as you do it. After 3 months or so, figure out your average spending in each category such as housing, food, utilities, and irregular things like car insurance, car registration, holiday spending.
-* Make a budget with what you've learned in the last step. Try to list everything you can think of that you spend money on. This can be regular things like weekly grocery runs, or infrequent things like your car registration fee. We don't want to have a surprise expense knock us off track, and we want to give "every dollar a job", as the founder of YNAB would say.
-* Reflect on your spending categories, and figure out what your money priorities are. Is your goal to have a 3 month emergency fund, or do you want to save up for a new bike? Calculate how much you will need to save each month to meet the goals' due dates, and add that in your budget.
-* Do you have debt payments? Time to make a plan to pay that down. There are many different ways to pay down debt, and Dave Ramsey has tons of tips on how to do that. This debt payment plan becomes a line in your budget, because we want to actively work to pay this down.
-* When your paycheck comes in, you want to add this available money to your budget. Do not add more than the actual money you have available. This is so that we don't spend more than we earn, and we don't rack up any more debt. It's also a good time to have a reality check of what you want vs what you can actually afford. Try your best to not spend over your budgeted amount.
-* Prioritize wants vs needs. Rent, food, utilities, transportation, and health are needs. High-interest debt payment is a need, because we want to get rid of it! A new iPhone is a want. Assign money to your needs first, before tackling wants.
+1. List your income and necessary expenses such as rent, utilities, groceries, gas for your car, and debt payments.
+2. Check your monthly income vs expenses. Is your income larger than your expenses? Great! You now have extra cash to save towards your financial goals. But, if your expenses are larger than your income, it's time to cut expenses down before moving on. Focus on big things like rent or mortgage, utilities, insurance, and food.
+3. Track your expenses. You can do this with paper and pen, in a spreadsheet, or using a budgeting app. I don't care how you do it, as long as you do it. After 3 months or so, figure out your average spending in each category such as housing, food, utilities, and irregular things like car insurance, car registration, holiday spending.
+4. Make a budget with what you've learned in the last step. Try to list everything you can think of that you spend money on. This can be regular things like weekly grocery runs, or infrequent things like your car registration fee. We don't want to have a surprise expense knock us off track, and we want to give "every dollar a job", as the founder of YNAB would say.
+5. Reflect on your spending categories, and figure out what your money priorities are. Is your goal to have a 3 month emergency fund, or do you want to save up for a new bike? Calculate how much you will need to save each month to meet the goals' due dates, and add that in your budget.
+6. Do you have debt payments? Time to make a plan to pay that down. There are many different ways to pay down debt, and Dave Ramsey has tons of tips on how to do that. This debt payment plan becomes a line in your budget, because we want to actively work to pay this down.
+7. When your paycheck comes in, you want to add this available money to your budget. Do not add more than the actual money you have available. This is so that we don't spend more than we earn, and we don't rack up any more debt. It's also a good time to have a reality check of what you want vs what you can actually afford. Try your best to not spend over your budgeted amount.
+8. Prioritize wants vs needs. Rent, food, utilities, transportation, and health are needs. High-interest debt payment is a need, because we want to get rid of it! A new iPhone is a want. Assign money to your needs first, before tackling wants.
 
 That's all there is to budgeting and saving money. You're now well on your way to having a healthier relationship with money.
 
@@ -57,6 +57,7 @@ There are tons of resources available online on personal finance and budgeting. 
 Happy budgeting!
 
 Sources:
+
 [1]2020 American Household Credit Card Debt Study. https://www.nerdwallet.com/blog/average-credit-card-debt-household/
 
 [2] Student Loans and Other Education Debt, Federal Reserve System. https://www.federalreserve.gov/publications/2019-economic-well-being-of-us-households-in-2018-student-loans-and-other-education-debt.htm
