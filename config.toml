@@ -2,6 +2,5 @@ baseURL = 'https://sweet-froyo-741890.netlify.app/'
 languageCode = 'en-us'
 title = 'PhD on FIRE'
 theme = 'hyde'
-
 [params]
-description = 'Angela's blog'
+description = "Angela's blog"
