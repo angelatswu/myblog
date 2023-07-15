@@ -1,6 +1,6 @@
 ---
 title: "Frugal Tips to Save Money in Gradschool"
-date: 2023-07-15T14:57:18-04:00
+date: 2021-10-31T14:57:18-04:00
 draft: false
 ---
 

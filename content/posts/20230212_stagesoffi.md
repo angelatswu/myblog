@@ -1,6 +1,6 @@
 ---
-title: "The stages of financial independence"
-date: 2023-07-15T17:08:30-04:00
+title: "The Stages of Financial Independence"
+date: 2023-02-12T17:08:30-04:00
 draft: false
 ---
 

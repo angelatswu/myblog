@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Cashback Credit Cards"
-date: 2023-07-15T16:25:07-04:00
+date: 2022-01-30T16:25:07-04:00
 draft: false
 ---
 

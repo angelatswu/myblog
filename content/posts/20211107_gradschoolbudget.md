@@ -1,6 +1,6 @@
 ---
 title: "My Frugal Gradschool Budget"
-date: 2023-07-15T15:02:33-04:00
+date: 2021-11-07T15:02:33-04:00
 draft: false
 ---
 

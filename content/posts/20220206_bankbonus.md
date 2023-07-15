@@ -1,6 +1,6 @@
 ---
 title: "How I Earned $500 with Bank Signup Bonus Offers"
-date: 2023-07-15T16:36:39-04:00
+date: 2022-02-06T16:36:39-04:00
 draft: false
 ---
 
@@ -8,7 +8,7 @@ Recently, I made $500 from opening bank accounts with Bank of the West and Monif
 
 # What are bank signup bonus offers?
 
-Bank signup bonus offers are similar to credit card bonuses, which I recently [blogged]({{< ref "/posts/20230715_creditcardchurning.md" >}}) about. You find banks that have bonuses for opening new accounts, and you earn the bonus as interest after you meet certain requirements. Once you earn the interest, you transfer the money out and close the account. The interest is taxable. At the end of year, you'll get a 1099-INT, which you'll report on that year's tax forms. 
+Bank signup bonus offers are similar to credit card bonuses, which I recently [blogged]({{< ref "/posts/20220123_creditcardchurning.md" >}}) about. You find banks that have bonuses for opening new accounts, and you earn the bonus as interest after you meet certain requirements. Once you earn the interest, you transfer the money out and close the account. The interest is taxable. At the end of year, you'll get a 1099-INT, which you'll report on that year's tax forms. 
 
 Some requirements are easier to meet than others. For example, the Bank of the West bonus required three direct deposits totaling $1000 or more for the first three months. Others have more stringent requirements such as 10 debit card transactions in addition to direct deposit requirements. I usually focus on bank signup bonuses that require direct deposits.
 

@@ -1,6 +1,6 @@
 ---
-title: "20230715_2022financialgoals"
-date: 2023-07-15T17:05:38-04:00
+title: "Did We Meet Our 2022 Financial Goals?"
+date: 2023-01-08T17:05:38-04:00
 draft: false
 ---
 
@@ -16,7 +16,7 @@ Because of my stupidity above, our emergency fund depleted by $12000. I needed t
 I had the lofty goal of saving for our home downpayment. We started with nothing at the beginning of the year and ended with about $900 at the end of the year in this goal. So we didn't do that well. I would like to save between 3 to 5% for our home downpayment in the next two years. 
 
 # Saving for our move and new furniture
-I wrote about our [move]({{< ref "/posts/20230715_moved.md" >}}) a while back. That was expensive. Mostly because we had to finance the move out of pocket as I was getting a relocation bonus from work. But that wasn't until my first paycheck in November, and we were moving at the end of September. We were able to mostly stay under budget, although inflation, high gas prices, and higher rent than anticipated were hitting us left and right. Luckily we didn't have to get in any debt to finance the move. 
+I wrote about our [move]({{< ref "/posts/20221124_moved.md" >}}) a while back. That was expensive. Mostly because we had to finance the move out of pocket as I was getting a relocation bonus from work. But that wasn't until my first paycheck in November, and we were moving at the end of September. We were able to mostly stay under budget, although inflation, high gas prices, and higher rent than anticipated were hitting us left and right. Luckily we didn't have to get in any debt to finance the move. 
 
 # Immigration fees
 We've been working on getting our green card since 2021. In 2022, we hired our previous immigration lawyer to help us adjust our status and get our employment authorization documents. The lawyer fees were about $2500 and we also had to pay about $2500 to USCIS in fees. Immigration is not cheap, but it was a necessary expense for us. 

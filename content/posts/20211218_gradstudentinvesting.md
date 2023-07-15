@@ -1,6 +1,6 @@
 ---
 title: "Why Grad Students Need to Invest"
-date: 2023-07-15T15:26:00-04:00
+date: 2021-12-18T15:26:00-04:00
 draft: false
 ---
 

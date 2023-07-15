@@ -1,6 +1,6 @@
 ---
 title: "You Should Invest with a Brokerage Account"
-date: 2023-07-15T15:04:58-04:00
+date: 2021-11-12T15:04:58-04:00
 draft: false
 ---
 

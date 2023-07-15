@@ -1,6 +1,6 @@
 ---
 title: "How to apply to a PhD program"
-date: 2023-07-15T08:44:58-04:00
+date: 2021-10-15T08:44:58-04:00
 draft: false
 ---
 

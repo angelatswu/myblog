@@ -1,6 +1,6 @@
 ---
 title: "Credit Card Churning"
-date: 2023-07-15T16:19:15-04:00
+date: 2022-01-23T16:19:15-04:00
 draft: false
 ---
 
@@ -39,7 +39,7 @@ Here's who can take advantage of churning credit cards:
 * If you have a strong credit score.
 * If you are planning to travel and would like to use credit card miles to meet your traveling needs.
 
-I've signed up for tons of credit cards in the past. I always pay off the credit card statement each month and have not racked up any credit card debt. All purchases we make with the cards are already budgeted for. If we have a big purchase coming up, I try to time a new credit card around the purchase. We also track all our credit card accounts in the [Buckets]({{< ref "/posts/20230715_buckets.md" >}}) software so I know exactly what each card is used for. And the best part is that the bonuses aren't taxable!
+I've signed up for tons of credit cards in the past. I always pay off the credit card statement each month and have not racked up any credit card debt. All purchases we make with the cards are already budgeted for. If we have a big purchase coming up, I try to time a new credit card around the purchase. We also track all our credit card accounts in the [Buckets]({{< ref "/posts/20211230_buckets.md" >}}) software so I know exactly what each card is used for. And the best part is that the bonuses aren't taxable!
 
 # Where to find good deals
 

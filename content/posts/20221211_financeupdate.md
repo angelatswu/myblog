@@ -1,10 +1,10 @@
 ---
 title: "An Update on Our Finances - Budgeting, Investing, and Saving for House"
-date: 2023-07-15T17:01:43-04:00
+date: 2022-12-11T17:01:43-04:00
 draft: false
 ---
 
-Since our move back to [Michigan]({{< ref "/posts/20230715_moved.md" >}}), our budget and finances have changed for the better. I wanted to highlight a few of these changes in this post. 
+Since our move back to [Michigan]({{< ref "/posts/20221124_moved.md" >}}), our budget and finances have changed for the better. I wanted to highlight a few of these changes in this post. 
 
 # Previous 401(k)
 I was at Sandia for about two years and they offered a 401(k). Sandia automatically contributes 6% to the 401(k), even if I don't elect to put anything in it. in addition, if you contribute 6%, they will match it by 4%. The total employer contribution was therefore 10%. This is very generous, and I have yet to find another employer that provides such a great match. I wasn't able to max it out due to our budgeting constraints, but I was able to contribute at least 6% of my salary to it to get the full match. The employer portion also didn't vest until I had worked for Sandia for 3 service years. Now, the way they count service years is a bit weird, but I was able to meet that requirement in June 2022, after having only worked 2 full years. 

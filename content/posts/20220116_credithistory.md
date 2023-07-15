@@ -1,6 +1,6 @@
 ---
 title: "How to Start a Credit History from Scratch"
-date: 2023-07-15T15:47:44-04:00
+date: 2022-01-16T15:47:44-04:00
 draft: false
 ---
 
@@ -34,7 +34,7 @@ The first two are the most important factors, and can make or break your credit 
 
 # Payment history
 
-You should always make on time payments, because missing a single payment can negatively impact your credit score. FICO puts a 35% weight on the payment history. I set up all my credit card payments on autopay to pay of the statement balance, and I track these accounts in my budgeting software, [Buckets]({{< ref "/posts/20230715_buckets.md" >}}), with the due date listed in the account names. That way, I know exactly how much we would need in our checking accounts to pay the credit cards on time and in full. 
+You should always make on time payments, because missing a single payment can negatively impact your credit score. FICO puts a 35% weight on the payment history. I set up all my credit card payments on autopay to pay of the statement balance, and I track these accounts in my budgeting software, [Buckets]({{< ref "/posts/20211230_buckets.md" >}}), with the due date listed in the account names. That way, I know exactly how much we would need in our checking accounts to pay the credit cards on time and in full. 
 
 If you're unable to pay your credit cards in full due to having more debt than you can pay off, you should at least put the minimum payment on autopay. But, remember that credit cards have high interest rates, which means your debt is compounding at an insane rate, and paying only the minimum payment will not help you reduce your credit card debt. That's why I advocate paying your credit card statement in full, and we're able to do that because we only buy what we have budgeted for. 
 

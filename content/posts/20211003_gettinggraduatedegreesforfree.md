@@ -1,6 +1,6 @@
 ---
 title: "Getting Graduate Degrees for Free"
-date: 2023-07-14T20:53:28-04:00
+date: 2021-10-03T20:53:28-04:00
 draft: false
 ---
 
