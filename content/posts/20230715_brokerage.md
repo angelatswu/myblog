@@ -9,8 +9,8 @@ I have brokerage account with Vanguard. I use it to save up for a car in 10-15 y
 # Brokerage accounts make sense ...
 ... if you want to invest your extra cash and you don't need them for a couple of years. If you sell the investment within a year, you will be subject to short term capital gains tax. This is equal to your ordinary income tax. If you hold your investments for longer than a year, they will be subject to long term capital gains tax. Long term capital gains tax is favorable since it's 0% for withdrawals up to $80,800 in 2021 for couples filing their taxes as married filing jointly. There are also no withdrawal penalties as with retirement accounts, and you can contribute as much as you want to. 
 
-# Before you open that brokerage account ...
-... you want to make sure you have your finances in order. This means 3-6 months of emergency fund savings in a high-yield savings account; no consumer debt (e.g. credit cards); funding your 401K to take advantage of any company match (which leads to 100% return of your investment!); and fully contributing to an IRA, be it traditional or Roth. Then start thinking about investing in a brokerage account.
+# Before you open that brokerage account
+You want to make sure you have your finances in order. This means 3-6 months of emergency fund savings in a high-yield savings account; no consumer debt (e.g. credit cards); funding your 401K to take advantage of any company match (which leads to 100% return of your investment!); and fully contributing to an IRA, be it traditional or Roth. Then start thinking about investing in a brokerage account.
 
 # Foreign nationals and investing
 If you are a foreign national in the US, brokerage accounts might make more sense than IRAs. You'll have an easier access to your investments since there are no withdrawal penalties or strict age rules. Please be aware of potential taxes you will need to pay once you withdraw (either to the US or your home country) and on dividend income. 
