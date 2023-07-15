@@ -17,6 +17,7 @@ Off-campus housing: After the first year, we decided to move to off-campus housi
 Free food at events: There are always events with free food during gradschool. One time, my friends and I stayed behind after a professor's endowed professorship lecture, and we were able to grab all the leftover lambchops and salmon burgers. That was a great feast. And sometimes they had free beer so that was fun. So try to attend all the events with free food, and maybe bring Tupperware for occasional leftovers.
 
 Gatherings: We also did tons of potlucks instead of going out to dinner. Occasionally, we did BBQs and pooled money together to buy ingredients and supplies. This was so fun and cheap, and we always had leftovers for everyone.
+
 Groceries: I was too lazy to coupon for groceries, so we mainly stuck with Kroger and the Asian market near us. At some point, an Aldi opened about 15 minutes away, so that was really great for cheap groceries. For good quality meat and bulk items, we went to Costco.
 
 Food pantry: My school also had a food pantry and anyone under a certain income could go there to get free groceries. There were also events where a school organization would give away free groceries.
@@ -76,6 +77,8 @@ Cellphone: I used MintMobile, which was basically paying only for what you're us
 Electricity+gas: This was our most expensive bill in Michigan, especially during the winter times. We rarely ran our AC during summer, and I set our thermostat to 75-78 Fahrenheit. During winter, I set it to 70 Fahrenheit. We did a budgeted billing method so our bill was the same each month, as they average out the yearly amount over 12 months. We also insulated our bedroom window using those plastic kits you can buy at Home Depot, which helped reduce the draft.
 
 Internet: You better believe I negotiated our yearly increase in the internet bill. I hate doing this, because it involves threatening to leave the internet provider. But, it does help save money. I was able to keep our internet bill under a steady $50 until we decided to go with AT&T fiber at a whopping $100. If you ask me, it wasn't worth it.
+
+# Conclusion
 
 In closing, I hope these tips helped save you some money. With the savings, add it to your emergency fund, invest the extra cash, save for future goals, or pay for your wants. What frugal tips and habits do you have that helped you save money?
 
