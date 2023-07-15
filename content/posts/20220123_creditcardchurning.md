@@ -16,7 +16,7 @@ Some cards provide sign-up bonus miles instead of cash. For example, the Capital
 
 Credit card churners open new cards every 3-6 months to continually get the sign up bonus and meet the minimum spend. If a card has an annual fee, the card can usually be downgraded to a no-annual fee card or canceled. 
 
-It's important to be careful with credit card churning, because it will have an impact on your [credit history]({{< ref "/posts/20230715_credithistory.md" >}}) and score. Opening new credit cards will cause your average credit age to drop, and increase your number of recent applications. And if you're not able to meet the minimum spend, then you will not be eligible for the bonus. I'll go over who should churn credit cards.
+It's important to be careful with credit card churning, because it will have an impact on your [credit history]({{< ref "/posts/20220116_credithistory.md" >}}) and score. Opening new credit cards will cause your average credit age to drop, and increase your number of recent applications. And if you're not able to meet the minimum spend, then you will not be eligible for the bonus. I'll go over who should churn credit cards.
 
 # Who should and should not churn credit cards
 
