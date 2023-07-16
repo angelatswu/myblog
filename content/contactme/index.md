@@ -4,19 +4,14 @@ date: 2023-07-16T12:46:02-04:00
 draft: false
 ---
 
+Fill up the form below to send me a message.
+
+
 
 {{< rawhtml >}}
 <div class="flex items-center min-h-screen bg-gray-50 dark:bg-gray-900">
   <div class="container mx-auto">
     <div class="max-w-md mx-auto my-10 bg-white p-5 rounded-md shadow-sm">
-      <div class="text-center">
-        <h1 class="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200">
-          Contact Us
-        </h1>
-        <p class="text-gray-400 dark:text-gray-400">
-          Fill up the form below to send me a message.
-        </p>
-      </div>
       <div class="m-7">
         <form action="https://api.web3forms.com/submit" method="POST" id="form">
           <input type="hidden" name="access_key" value="c5c3b45f-87fa-464a-895d-6320433e2e44" />
