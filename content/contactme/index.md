@@ -14,7 +14,7 @@ Have questions or feedback? Contact me below.
     label {
         display: inline-block;
         width: 150px;
-        text-align: right;
+        text-align: left;
     }
 </style>
 
