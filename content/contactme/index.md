@@ -13,7 +13,7 @@ Have questions or feedback? Contact me below.
     }
     label {
         display: inline-block;
-        width: 150px;
+        width: 200px;
         text-align: left;
     }
 </style>
