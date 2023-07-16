@@ -1,4 +1,4 @@
-baseURL = 'https://sweet-froyo-741890.netlify.app/'
+baseURL = 'https://phdonfire.com/'
 languageCode = 'en-us'
 title = 'PhD on FIRE'
 theme = 'hyde'
@@ -15,5 +15,9 @@ theme = 'hyde'
   name = 'Resources'
   url = '/resources'
   weight = 30
+[[menu.main]]
+  name = 'Contact Me'
+  url = '/contactme'
+  weight = 40  
 [params]
 description = "Angela's blog"
