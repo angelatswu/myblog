@@ -15,5 +15,7 @@ theme = 'hyde'
   name = 'Resources'
   url = '/resources'
   weight = 30
+disqusShortname = "spf13"
 [params]
 description = "Angela's blog"
+themeColor = "theme-base-08"
