@@ -17,5 +17,3 @@ theme = 'hyde'
   weight = 30
 [params]
 description = "Angela's blog"
-themeColor = "theme-base-08"
-disqusShortname = "spf13"
