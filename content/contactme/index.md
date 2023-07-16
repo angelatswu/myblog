@@ -28,7 +28,9 @@ Have questions or feedback? Contact me below.
     <label>Email:</label>
     <input type="email" id="email" name="email" required>
 </div>
+<div>
     <textarea name="message" required cols="30" rows="10">What's on your mind?</textarea>
     <button type="submit">Submit Form</button>
+</div>
 </form>
 {{< /rawhtml >}}
