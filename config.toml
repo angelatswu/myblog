@@ -5,7 +5,7 @@ theme = 'hyde'
 [menu]
 [[menu.main]]
   name = 'About'
-  url = '/about'
+  url = '/about/aboutme.md'
   weight = 20
 [[menu.main]]
   name = 'Posts'
