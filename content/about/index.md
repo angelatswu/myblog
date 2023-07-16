@@ -2,6 +2,7 @@
 title: "About me"
 date: 2023-07-13T18:44:47-04:00
 draft: false
+type = "about"
 ---
 
 Welcome to my blog! My name is Angela. I'm a mechanical engineering PhD graduate from the University of Michigan. I recently finished a two-year postdoc at Sandia National Labs, and now work as a research engineer in Michigan. My husband and I are proud dog parents to a pug named Oskar.
