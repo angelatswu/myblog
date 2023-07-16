@@ -9,8 +9,8 @@ Fill up the form below to send me a message.
 
 
 {{< rawhtml >}}
+
 <div class="container">
-  <h1>FormSubmit Demo</h1>
   <form target="_blank" action="https://formsubmit.co/1b8834a6411b82259ed49e02b5227c98" method="POST">
     <div class="form-group">
       <div class="form-row">
