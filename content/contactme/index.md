@@ -7,20 +7,15 @@ draft: false
 Have questions or feedback? Contact me below. 
 
 {{< rawhtml >}}
-<form action="https://public.herotofu.com/v1/1b081f10-23f9-11ee-8b54-f37b8ac0c701" method="post" accept-charset="UTF-8">
-  <div>
-    <label for="name">Your Name</label>
-    <input name="Name" id="name" type="text" required />
-  </div>
-  <div>
-    <label for="email">Your Email</label>
-    <input name="Email" id="email" type="email" required  />
-  </div>
-  <div>
-    <input type="submit" value="Download CTA" />
-    <div style="text-indent:-99999px; white-space:nowrap; overflow:hidden; position:absolute;" aria-hidden="true">
-      <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" />
-    </div>
-  </div>
+
+<form action="https://api.web3forms.com/submit" method="POST">
+​
+    <input type="hidden" name="access_key" value="c5c3b45f-87fa-464a-895d-6320433e2e44">
+​
+    <input type="text" name="name" required>
+    <input type="email" name="email" required>
+    <textarea name="message" required></textarea>
+    <button type="submit">Submit Form</button>
+​
 </form>
 {{< /rawhtml >}}
