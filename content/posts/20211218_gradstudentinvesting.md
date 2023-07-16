@@ -39,3 +39,4 @@ This is another reason why you have to take your retirement investing in your ow
 # Conclusions
 Please, if you take anything away from this post, start investing in your retirement as a grad student. Start by budgeting and tracking your expenses. Then, save for a month's worth of emergency fund to get out of the paycheck to paycheck cycle. After that, it's important to start contributing to an IRA account and start investing in your future. Do not delay this step, as time in the market beats timing the market. 
 
+{{< chat gradstudent-investing>}}

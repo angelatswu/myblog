@@ -16,3 +16,4 @@ What often happens to postdocs is that your employer won't provide a match to yo
 # Conclusions
 If your employer matches your contribution, consider contributing at least up to the match. Then, max out your IRA, which can be Roth or traditional. Afterwards, if you still want to save more, increase your 403(b) contribution. Retirement these days are up to the individual, unfortunately, so aim to save (and invest) at least 15% of your income.
 
+{{< chat retirement-academia>}}

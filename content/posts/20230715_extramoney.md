@@ -42,3 +42,4 @@ We recently figured out that there are tons of giftcard deals out there we can t
 
 There are lots of little side hustles we've done to earn a few bucks here and there. While they're small amounts in the grand scheme of things, they do add up over time. This have enabled us to save more money towards emergency funds and IRAs. I would love to learn more ways to earn some extra cash from ya'll. So what are some ways you've earned extra cash?
 
+{{< chat ways-to-make-extra-money>}}

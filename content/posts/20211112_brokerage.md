@@ -28,3 +28,5 @@ I've invested in VTSAX, which has an expense ratio of 0.04%. You can also invest
 
 With that said, happy investing!
 
+{{< chat brokerage>}}
+

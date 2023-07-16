@@ -110,3 +110,5 @@ Sometimes, you won't hear from a program until AFTER April 15. This is usually t
 You made your decision! Time to accept the offer. There might be some paperwork involved. Email your future PI and ask if there are any papers they want you to read to get up to speed on your new research project. In any case, it's time to celebrate! PhD programs can be brutal, so once you've accepted the offer, make time to celebrate with friends and family.
 
 ## Do you have any tips for applying to PhD programs?
+
+{{< chat phd-programs>}}

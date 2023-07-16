@@ -60,3 +60,4 @@ Building these frugal habits have been incredibly helpful during gradschool and 
 Hopefully this gives you some inspiration to look at your own budget, and maybe cut out some unnecessary wants.
 What was your budget like during college and/or gradschool?
 
+{{< chat gradschool-budget>}}

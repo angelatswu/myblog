@@ -28,3 +28,4 @@ The longest we've waited for these bonuses was 6 months, for the Bank of the Wes
 
 Have you ever tried bank signup bonuses? What are some other ways you've made money? Let me know in the comments!
 
+{{< chat bank-bonus>}}

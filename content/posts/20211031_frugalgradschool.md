@@ -82,3 +82,4 @@ Internet: You better believe I negotiated our yearly increase in the internet bi
 
 In closing, I hope these tips helped save you some money. With the savings, add it to your emergency fund, invest the extra cash, save for future goals, or pay for your wants. What frugal tips and habits do you have that helped you save money?
 
+{{< chat frugal-gradschool>}}

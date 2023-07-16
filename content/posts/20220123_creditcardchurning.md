@@ -63,3 +63,4 @@ You can also decide to close the credit card, but before you do that, make sure 
 Credit card churning can be a lucrative hobby for some, and a debt trap for others. Only churn if you can be a responsible credit card user. Meet the minimum spend by buying only things you've budgeted for, and pay off the credit card statement in full each month. If the card has an annual fee, keep it open if it makes sense financially, or downgrade it to a no-annual fee card. If you do this, you could easily make a couple of hundred bucks in cash back or travel miles per year. This might not be a lot of money in the grand scheme of things, but it's a lot of money if you're only getting a stipend of $2500 a month. 
 So tell me, do you churn credit cards? Will you be taking this on as a hobby?
 
+{{< chat churning>}}

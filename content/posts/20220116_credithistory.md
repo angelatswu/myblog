@@ -68,3 +68,4 @@ I use [Credit Karma](http://www.creditkarma.com/) to check my credit history and
 # Final words
 Building a strong credit history might feel impossible if you were like us, immigrants with no credit history. But it is entirely possible and not hard to do. Try a secured credit card, become someone's authorized user, or transfer your existing credit history from another country. Make on time payments, and try your best not to incur credit card debt. It takes time, but you will be able to build a strong credit score. And once you've built a strong credit history, you can take advantage of credit card churning, travel hacking, and low interest rate loans. 
 
+{{< chat credit-history>}}

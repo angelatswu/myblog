@@ -49,4 +49,5 @@ My PhD program guaranteed funding for four years through assistantships. These w
 
 Grad school can cost an arm and a leg. But it doesn't have to, and you can get your graduate degrees for free. One more note: PhD degrees should, and is usually, free. Do not attend a PhD program if they cannot guarantee you funding for x amount of years through assistantships and/or fellowships, which should pay for tuition and fees. Better funded programs should also provide health insurance benefits. Please do not attend a PhD program that is unfunded.
 
+{{< chat free-gradschool>}}
 

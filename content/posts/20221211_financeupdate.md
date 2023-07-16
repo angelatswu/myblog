@@ -34,3 +34,4 @@ My spouse is also building up his photography business. In the near future, this
 
 Moving from California to Michigan lowered our costs significantly. I am now able to max out my 401(k), and we can finally save up for our house downpayment. I feel optimistic about our financial future, as I believe we're on the path to financial independence. It might not happen very quickly, but reaching financial independence takes a lot of hard work and patience. 
 
+{{< chat update-on-our-finances>}}

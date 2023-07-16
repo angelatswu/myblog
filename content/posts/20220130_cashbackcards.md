@@ -21,3 +21,5 @@ We use the Citi Double card for 2% back on everything else. With Covid, almost a
 Is it worth it to go through all this effort for a few percent discount? I think it is. Using Rakuten and BofA to buy discounted giftcards, we've been able to get almost 25-30% discount on various purchases. I'm an optimizer by heart, so getting these discounts to stack is a fun game I play while also never having to pay full price ever again. 
 
 Edit: We've downgraded the Amex Blue Cash Preferred to the Blue Cash Everyday. We're not using the Amex card as often now that we've moved back to Michigan. We're mainly shopping at Costco, and the Asian grocery stores I frequent do not accept Amex (perhaps due to the high transaction fees they have to pay for). 
+
+{{< chat cash-back-cards>}}

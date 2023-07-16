@@ -90,3 +90,4 @@ We're at stage 7-8 in the financial independence marathon, based on our projecte
 
 I'd love to hear from readers. Are you working towards financial independence? What stage of FI are you in? Is there anything you can suggest to others as they embark on their path to FI?
 
+{{< chat stages-of-fi>}}

@@ -29,3 +29,4 @@ No, we didn't meet all our financial goals. The 401(k) didn't get maxed out, but
 
 So tell me, what financial goals do you have and did you meet any of them?
 
+{{< chat 2022-financial-goals>}}

@@ -44,4 +44,5 @@ I honestly don’t know how we would have done this if I did a postdoc in academ
 
 Immigrating to any country isn’t easy. It was relatively fast for us as citizens from a rather small and unknown country. In contrast, citizens from India and China experience decade-long backlogs, while they face uncertainty in their work status. It is incredibly difficult to think about establishing your life in a country where your future is so uncertain. You start to think whether it makes sense to invest in your 401k, IRA, or even buy a house, when it is so easy to get fired from a job and have to leave the country in 60 days or less if you’re unable to find another job. I empathize with everyone who is going through this process. 
 
+{{< chat green-card>}}
 

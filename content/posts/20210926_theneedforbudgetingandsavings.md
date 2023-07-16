@@ -66,3 +66,4 @@ Sources:
 
 [4] Dealing with Unexpected Expenses. https://www.federalreserve.gov/publications/2019-economic-well-being-of-us-households-in-2018-dealing-with-unexpected-expenses.htm
 
+{{< chat budgeting>}}
