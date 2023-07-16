@@ -14,7 +14,7 @@ Have questions or feedback? Contact me below.
     label {
         display: inline-block;
         width: 200px;
-        text-align: left;
+        text-align: right;
     }
 </style>
 
@@ -28,7 +28,7 @@ Have questions or feedback? Contact me below.
     <label>Email:</label>
     <input type="email" id="email" name="email" required>
 </div>
-    <textarea name="message" required cols="40" rows="10">What's on your mind?</textarea>
+    <textarea name="message" required cols="30" rows="10">What's on your mind?</textarea>
     <button type="submit">Submit Form</button>
 </form>
 {{< /rawhtml >}}
