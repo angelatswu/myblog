@@ -7,9 +7,6 @@ type: contact
 Fill up the form below to send me a message.
 
 
-
-{{< rawhtml >}}
-
 <div class="container">
   <form target="_blank" action="https://formsubmit.co/angela.phdonfire@gmail.com" method="POST">
     <div class="form-group">
@@ -28,4 +25,3 @@ Fill up the form below to send me a message.
     <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
   </form>
 </div>
-{{< /rawhtml >}}
