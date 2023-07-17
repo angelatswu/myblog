@@ -2,6 +2,8 @@ baseURL = 'https://phdonfire.com/'
 languageCode = 'en-us'
 title = 'PhD on FIRE'
 theme = 'hyde'
+[outputs]
+   home = ["HTML","RSS"]
 [menu]
 [[menu.main]]
   name = 'About'
