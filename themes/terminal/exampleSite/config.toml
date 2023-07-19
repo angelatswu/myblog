@@ -5,15 +5,15 @@ paginate = 5
 
 [params]
   contentTypeName = "posts"
-  themeColor = "red"
-  showMenuItems = 3
+  themeColor = "orange"
+  showMenuItems = 2
   fullWidthTheme = false
   centerTheme = false
 
 [languages]
   [languages.en]
-    title = "PhD on FIRE"
-    subtitle = "Angela Wu's personal blog"
+    title = "Terminal"
+    subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -21,7 +21,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "PhD on FIRE"
+      logoText = "Terminal"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -29,14 +29,7 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-        weight = 10
       [[languages.en.menu.main]]
-        identifier = "Resources"
-        name = "Resources"
+        identifier = "showcase"
+        name = "Showcase"
         url = "/showcase"
-        weight = 20
-      [[languages.en.menu.main]]
-        identifier = "Contact"
-        name = "Contact me"
-        url = "/contactme"
-        weight = 30
