@@ -7,7 +7,7 @@ paginate = 5
   contentTypeName = "posts"
   themeColor = "red"
   showMenuItems = 3
-  fullWidthTheme = false
+  fullWidthTheme = true
   centerTheme = false
 
 [languages]
