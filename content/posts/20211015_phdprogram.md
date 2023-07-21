@@ -1,8 +1,10 @@
----
-title: "How to apply to a PhD program"
-date: 2021-10-15T08:44:58-04:00
-draft: false
----
++++
+title= "How to apply to a PhD program"
+date = "2021-10-15T08:44:58-04:00"
+author = "Angela Wu"
+cover = ""
+description = "So you've decided to apply to a PhD program, and are now trying to figure out a best path forward. It can be an extremely stressful time as you balance finishing classes, finding and applying to programs, and work. I was finishing up my master's thesis during the application period, while also working part-time to save up for the eventual move. I'll give you some of my strategies on how I applied to PhD programs as a first-generation international student."
++++
 
 So you've decided to apply to a PhD program, and are now trying to figure out a best path forward. It can be an extremely stressful time as you balance finishing classes, finding and applying to programs, and work. I was finishing up my master's thesis during the application period, while also working part-time to save up for the eventual move. I'll give you some of my strategies on how I applied to PhD programs as a first-generation international student.
 

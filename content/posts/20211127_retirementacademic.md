@@ -1,8 +1,10 @@
----
-title: "Retirement Savings in Academia and Non-Profits"
-date: 2021-11-27T15:10:15-04:00
-draft: false
----
++++
+title = "Retirement Savings in Academia and Non-Profits"
+date = "2021-11-27T15:10:15-04:00"
+author = "Angela Wu"
+cover = ""
+description = "If you are a postdoc or newly minted faculty working in academia, or if you're working for a non-profit, you may be able to contribute to a retirement savings account known as a 403(b). It is similar to the [401(k)]({{< ref "/posts/20211024_401k.md" >}}) in terms of contribution limits and benefits. You can contribute to it using pre-tax income, lowering your taxable income. You pay taxes when you withdraw the money after retirement age (59.5 years). Or, if the institution offers it, you can contribute after-tax money to a Roth 403(b). When you withdraw after you turn 59.5, and as long as the account has existed for at least 5 years, you can withdraw the money tax-free. "
++++
 
 If you are a postdoc or newly minted faculty working in academia, or if you're working for a non-profit, you may be able to contribute to a retirement savings account known as a 403(b). It is similar to the [401(k)]({{< ref "/posts/20211024_401k.md" >}}) in terms of contribution limits and benefits. You can contribute to it using pre-tax income, lowering your taxable income. You pay taxes when you withdraw the money after retirement age (59.5 years). Or, if the institution offers it, you can contribute after-tax money to a Roth 403(b). When you withdraw after you turn 59.5, and as long as the account has existed for at least 5 years, you can withdraw the money tax-free. 
 

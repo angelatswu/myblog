@@ -1,8 +1,10 @@
----
-title: "An Update on Our Finances - Budgeting, Investing, and Saving for House"
-date: 2022-12-11T17:01:43-04:00
-draft: false
----
++++
+title = "An Update on Our Finances - Budgeting, Investing, and Saving for House"
+date = "2022-12-11T17:01:43-04:00"
+author = "Angela Wu"
+cover = ""
+description = "Since our move back to [Michigan]({{< ref "/posts/20221124_moved.md" >}}), our budget and finances have changed for the better. I wanted to highlight a few of these changes in this post. "
++++
 
 Since our move back to [Michigan]({{< ref "/posts/20221124_moved.md" >}}), our budget and finances have changed for the better. I wanted to highlight a few of these changes in this post. 
 

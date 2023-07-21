@@ -1,8 +1,11 @@
----
-title: "Frugal Tips to Save Money in Gradschool"
-date: 2021-10-31T14:57:18-04:00
-draft: false
----
++++
+title = "Frugal Tips to Save Money in Gradschool"
+date = "2021-10-31T14:57:18-04:00"
+author = "Angela Wu"
+cover = ""
+description = "My husband and I lived on a monthly stipend of about $2400 and his savings during gradschool. So, we tried our best to stay frugal in order to save money. These habits allowed me to put $5000 towards my car downpayment, invest $6000 in my ROTH IRA almost every year, and travel to Paris and New York City on a limited budget."
++++
+
 
 My husband and I lived on a monthly stipend of about $2400 and his savings during gradschool. So, we tried our best to stay frugal in order to save money. These habits allowed me to put $5000 towards my car downpayment, invest $6000 in my ROTH IRA almost every year, and travel to Paris and New York City on a limited budget.
 

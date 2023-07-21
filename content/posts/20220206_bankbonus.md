@@ -1,8 +1,10 @@
----
-title: "How I Earned $500 with Bank Signup Bonus Offers"
-date: 2022-02-06T16:36:39-04:00
-draft: false
----
++++
+title = "How I Earned $500 with Bank Signup Bonus Offers"
+date = "2022-02-06T16:36:39-04:00"
+author = "Angela Wu"
+cover = ""
+description = "Recently, I made $500 from opening bank accounts with Bank of the West and Monifi. I'm still waiting on $600 from two more bank accounts. Here, I'll go over the easiest money I've made by taking advantage of bank signup bonus offers. "
++++
 
 Recently, I made $500 from opening bank accounts with Bank of the West and Monifi. I'm still waiting on $600 from two more bank accounts. Here, I'll go over the easiest money I've made by taking advantage of bank signup bonus offers.
 

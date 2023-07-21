@@ -1,8 +1,11 @@
----
-title: "Why Grad Students Need to Invest"
-date: 2021-12-18T15:26:00-04:00
-draft: false
----
++++
+title = "Why Grad Students Need to Invest"
+date = "2021-12-18T15:26:00-04:00"
+author = "Angela Wu"
+cover = ""
+description = "I've been thinking more and more about financial independence and retirement, even in my early career as a postdoc. It's important to think about retirement while you still have time at your advantage. Time in the market beats timing the market, because of the magic of compounding. It's even more important to take investing in your retirement in your own hands as a grad student as there are several things working against us when it comes to retirement savings and investing. "
++++
+
 
 I've been thinking more and more about financial independence and retirement, even in my early career as a postdoc. It's important to think about retirement while you still have time at your advantage. Time in the market beats timing the market, because of the magic of compounding. It's even more important to take investing in your retirement in your own hands as a grad student as there are several things working against us when it comes to retirement savings and investing.
 

@@ -1,8 +1,10 @@
----
-title: "Did We Meet Our 2022 Financial Goals?"
-date: 2023-01-08T17:05:38-04:00
-draft: false
----
++++
+title = "Did We Meet Our 2022 Financial Goals?"
+date = "2023-01-08T17:05:38-04:00"
+author = "Angela Wu"
+cover = ""
+description = "I had some lofty goals for 2022. We wanted to max our Roth IRA, save for a move, and pad our emergency fund. That was difficult to do on a single salary in Northern California. Here's a breakdown of our financial goals last year and whether or not we met them."
++++
 
 I had some lofty goals for 2022. We wanted to max our Roth IRA, save for a move, and pad our emergency fund. That was difficult to do on a single salary in Northern California. Here's a breakdown of our financial goals last year and whether or not we met them.
 

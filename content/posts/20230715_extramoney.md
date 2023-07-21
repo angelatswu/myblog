@@ -1,8 +1,10 @@
----
-title: "Ways to Make Extra Money"
-date: 2023-07-15T15:14:27-04:00
-draft: false
----
++++
+title = "Ways to Make Extra Money"
+date = "2023-07-15T15:14:27-04:00"
+author = "Angela Wu"
+cover = ""
+description = "My husband and I lived on a strict monthly stipend in gradschool, in addition to his savings. It's not an extravagant amount of money, and as you can see from my gradschool budget, we lived pretty frugally. I like finding ways to earn a few extra bucks here and there to reach our savings goals faster. Here, I'll dive in a few ways we currently make extra money, and have made during gradschool. "
++++
 
 My husband and I lived on a strict monthly stipend in gradschool, in addition to his savings. It's not an extravagant amount of money, and as you can see from my gradschool budget, we lived pretty frugally. I like finding ways to earn a few extra bucks here and there to reach our savings goals faster. Here, I'll dive in a few ways we currently make extra money, and have made during gradschool. 
 

@@ -1,8 +1,10 @@
----
-title: "The Need for Budgeting and Savings"
-date: 2021-09-26T21:26:53-04:00
-draft: false
----
++++
+title= "The Need for Budgeting and Savings"
+date = "2021-09-26T21:26:53-04:00"
+author = "Angela Wu"
+cover = ""
+description = "Why should students care about budgets and savings? Don't we have enough things to worry about? Classes, exams, research... Now you want me to add budgeting into that? Forget it."
++++
 
 Why should students care about budgets and savings? Don't we have enough things to worry about? Classes, exams, research... Now you want me to add budgeting into that? Forget it.
 

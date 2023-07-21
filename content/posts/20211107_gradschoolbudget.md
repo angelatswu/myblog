@@ -1,8 +1,10 @@
----
-title: "My Frugal Gradschool Budget"
-date: 2021-11-07T15:02:33-04:00
-draft: false
----
++++
+title = "My Frugal Gradschool Budget"
+date = "2021-11-07T15:02:33-04:00"
+author = "Angela Wu"
+cover = ""
+description = "Today I want to reflect a bit on my gradschool budget. I got a stipend of about $2350 each month. We split our bills 50/50 in gradschool, and we each had our own spending categories. Below was my average monthly budget, including my half of the bills."
++++
 
 Today I want to reflect a bit on my gradschool budget. I got a stipend of about $2350 each month. We split our bills 50/50 in gradschool, and we each had our own spending categories. Below was my average monthly budget, including my half of the bills.
 

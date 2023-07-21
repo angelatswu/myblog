@@ -1,8 +1,10 @@
----
-title: "How to Start a Credit History from Scratch"
-date: 2022-01-16T15:47:44-04:00
-draft: false
----
++++
+title = "How to Start a Credit History from Scratch"
+date = "2022-01-16T15:47:44-04:00"
+author = "Angela Wu"
+cover = ""
+description = "When I first arrived to the US as an international student, I didn't have any credit history. This made renting an apartment really expensive. My then boyfriend (now husband) and I had to pay two months rent in advance, and also put down a two months security deposit. This also made getting loans impossible without a cosigner. "
++++
 
 When I first arrived to the US as an international student, I didn't have any credit history. This made renting an apartment really expensive. My then boyfriend (now husband) and I had to pay two months rent in advance, and also put down a two months security deposit. This also made getting loans impossible without a cosigner. 
 

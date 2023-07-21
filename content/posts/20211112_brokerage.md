@@ -1,8 +1,10 @@
----
-title: "You Should Invest with a Brokerage Account"
-date: 2021-11-12T15:04:58-04:00
-draft: false
----
++++
+title = "You Should Invest with a Brokerage Account"
+date = "2021-11-12T15:04:58-04:00"
+author = "Angela Wu"
+cover = ""
+description = "I have brokerage account with Vanguard. I use it to save up for a car in 10-15 years. It's a longer-term savings goal, so I didn't want to put it in a high-yield savings account. A brokerage account is perfect for financial goals that you want to meet in 10 years or so, but still want to be able to access it before traditional retirement age. "
++++
 
 I have brokerage account with Vanguard. I use it to save up for a car in 10-15 years. It's a longer-term savings goal, so I didn't want to put it in a high-yield savings account. A brokerage account is perfect for financial goals that you want to meet in 10 years or so, but still want to be able to access it before traditional retirement age. 
 

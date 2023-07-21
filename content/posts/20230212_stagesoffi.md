@@ -1,8 +1,10 @@
----
-title: "The Stages of Financial Independence"
-date: 2023-02-12T17:08:30-04:00
-draft: false
----
++++
+title = "The Stages of Financial Independence"
+date = "2023-02-12T17:08:30-04:00"
+author = "Angela Wu"
+cover = ""
+description = "I've been writing about our path to financial independence (FI) for a bit. In this post, I'll explain what financial independence is, the different stages of FI, and which stage we're at."
++++
 
 I've been writing about our path to financial independence (FI) for a bit. In this post, I'll explain what financial independence is, the different stages of FI, and which stage we're at.
 

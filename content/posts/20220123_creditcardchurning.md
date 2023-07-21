@@ -1,8 +1,10 @@
----
-title: "Credit Card Churning"
-date: 2022-01-23T16:19:15-04:00
-draft: false
----
++++
+title = "Credit Card Churning"
+date = "2022-01-23T16:19:15-04:00"
+author = "Angela Wu"
+cover = ""
+description = "I occasionally churn credit cards. Mostly for the sign-up bonuses, but also for the ongoing cash back deals. These sign-up bonuses are not taxable as they're seen as rebates by the IRS. Last year, we got $750 in sign-up bonuses. It supplemented our meager income during gradschool, and even earned us some free trips."
++++
 
 I occasionally churn credit cards. Mostly for the sign-up bonuses, but also for the ongoing cash back deals. These sign-up bonuses are not taxable as they're seen as rebates by the IRS. Last year, we got $750 in sign-up bonuses. It supplemented our meager income during gradschool, and even earned us some free trips. 
 

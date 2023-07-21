@@ -1,8 +1,10 @@
----
-title: "Getting Graduate Degrees for Free"
-date: 2021-10-03T20:53:28-04:00
-draft: false
----
++++
+title= "Getting Graduate Degrees for Free"
+date = "2021-10-03T20:53:28-04:00"
+author = "Angela Wu"
+cover = ""
+description = "So you've decided to get a graduate degree, and now you're worried about how to finance it. Can you get a graduate degree without going into (additional) student debt? I think you can, with some careful planning, being frugal, and having a budget. Here are things that I did to make sure I could get my graduate degrees for free. "
++++
 
 So you've decided to get a graduate degree, and now you're worried about how to finance it. Can you get a graduate degree without going into (additional) student debt? I think you can, with some careful planning, being frugal, and having a budget. Here are things that I did to make sure I could get my graduate degrees for free.
 
