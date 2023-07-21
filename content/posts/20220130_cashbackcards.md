@@ -3,7 +3,7 @@ title = "Optimizing Cashback Credit Cards"
 date = "2022-01-30T16:25:07-04:00"
 author = "Angela Wu"
 cover = ""
-description = "Last time I wrote about [credit card churning]({{< ref "/posts/20220123_creditcardchurning.md" >}}). I want to go over the credit cards we use for cash back and how we optimize their usage to get the most discount. By stacking these with cash back portals and discounted giftcards, we've been able to get almost 25-30% discounts on our recent purchases."
+description = "Last time I wrote about credit card churning. I want to go over the credit cards we use for cash back and how we optimize their usage to get the most discount. By stacking these with cash back portals and discounted giftcards, we've been able to get almost 25-30% discounts on our recent purchases."
 +++
 
 Last time I wrote about [credit card churning]({{< ref "/posts/20220123_creditcardchurning.md" >}}). I want to go over the credit cards we use for cash back and how we optimize their usage to get the most discount. By stacking these with cash back portals and discounted giftcards, we've been able to get almost 25-30% discounts on our recent purchases.
