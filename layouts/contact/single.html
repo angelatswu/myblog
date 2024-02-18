@@ -34,19 +34,20 @@ input[type=submit]:hover {
   {{ .Content }}
 </div>
 
-<form name="contact" method="POST" data-netlify="true" action="/success">
-  <p>
-    <label>Your Name: <input type="text" name="name" required/></label>
-  </p>
-  <p>
-    <label>Your Email: <input type="text" name="email" required/></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message" style="height:200px" required></textarea></label>
-  </p>
-  <p>
-    <input type="submit" value="Submit">
-  </p>
+<form
+  action="https://formspree.io/f/xleqbobo"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
 
 {{- end }}
