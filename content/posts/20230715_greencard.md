@@ -2,7 +2,7 @@
 title = "From F-1 to Green Card: An Immigration Story"
 date = "2023-07-15T17:15:26-04:00"
 author = "Angela Wu"
-cover = "/img/travel.jpg"
+cover = "img/travel.jpg"
 description = "My husband and I started our journey in the US in 2009 as university students. We were both on F-1 visas. Our goal at the time wasn’t necessarily to immigrate to the US. We wanted to attend university in the US, but if things didn’t work out, we could just move back to our home country, Suriname."
 +++
 
